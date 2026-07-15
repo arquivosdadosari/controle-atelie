@@ -1,6 +1,6 @@
 {
-  "name": "Flet",
-  "short_name": "Flet",
+  "name": "aplicativo costura",
+  "short_name": "aplicativo costura",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#FFFFFF",
